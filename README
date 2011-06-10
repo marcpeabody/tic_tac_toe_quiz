@@ -1,0 +1,9 @@
+Put two AIs against one another
+ruby play.rb
+
+Play against the bot
+ruby play.rb i
+
+It will learn how to play with each game.
+
+Games with a winner are saved to games.txt - start from scratch by wiping this file.
